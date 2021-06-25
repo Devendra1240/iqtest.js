@@ -1,3 +1,4 @@
+<style>
 .iq3 {
   display: inline-block;
   padding: 0.35rem 0.75rem;
@@ -397,3 +398,4 @@ animation: iq6-loading-spinner 0.8s ease 0s infinite;
     transform: rotate(1turn);
   }
 }
+</style>
